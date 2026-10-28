@@ -1,0 +1,13 @@
+{
+  "name": "diigoo-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "DIIGOO interactive company website",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check dist/tour.js && node --check dist/character-webgl.js && node --check dist/software-renderer.js && node --check dist/mascot-audio.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
