@@ -1,5 +1,9 @@
 # DIIGOO interactive website — WebGL rig edition
 
+<p align="center">
+  <img src="dist/assets/diigoo-voxel-reference.png" alt="Diigoo Voxel Character" width="300" />
+</p>
+
 DIIGOO's company website, using the user-selected SEBG reference for typography, colours, pinned reading, character-led navigation and mobile corner companion behavior. Content describes DIIGOO and its own products; the reference developer's projects and identity are not presented as DIIGOO work.
 
 ## Run
